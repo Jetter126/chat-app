@@ -1,3 +1,9 @@
+# chat-app (IN PROGRESS)
+
+ReactChat is a messaging app created using React and Firebase. It is currently still being developed.
+
+Below is the default React README.md for running the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
